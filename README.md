@@ -1,4 +1,4 @@
-# Cliemt List CRUD System
+# Client List CRUD System
 
 A simple and efficient client management system designed for small Office/Home Office (SOHO) companies.
 
